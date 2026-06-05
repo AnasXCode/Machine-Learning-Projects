@@ -36,8 +36,6 @@ titanic-survival-predictor/
 ├── titanic_project.ipynb    # Jupyter Notebook (data exploration + model training)
 ├── train.csv                # Training dataset (891 passengers)
 ├── test.csv                 # Test dataset (418 passengers)
-├── gender_submission.csv    # Sample submission file
-└── README.md                # Project documentation (this file)
 ```
 
 ---
@@ -50,7 +48,6 @@ The dataset is from the [Kaggle Titanic Competition](https://www.kaggle.com/comp
 |-------------------------|-------------|-------------|
 | `train.csv`             | 891         | Labelled data used for training (includes `Survived` column) |
 | `test.csv`              | 418         | Unlabelled data used for final prediction submission |
-| `gender_submission.csv` | 418         | Example submission format |
 
 ### Feature Descriptions
 

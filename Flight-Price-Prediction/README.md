@@ -6,7 +6,8 @@ A complete end-to-end Machine Learning project that predicts Indian domestic fli
 
 ## 🌐 Live Demo (Local)
 
-![SkyFare App](screenshots/skyfare_app.png)
+<img width="511" height="397" alt="image" src="https://github.com/user-attachments/assets/aeb6f6b4-874a-49ac-8bb8-42a15fce47e9" />
+
 
 > **SkyFare** — Instant, data-driven flight price estimates across India, powered by machine learning trained on millions of fares.
 
@@ -236,7 +237,7 @@ Flight-Price-Prediction/
 ├── Flight_Price_Prediction.ipynb  # Main Jupyter Notebook (full pipeline)
 ├── flight_price_rf_model.pkl      # Download from Kaggle (see above)
 ├── model_features.pkl             # Download from Kaggle (see above)
-└── README.md                      # This file
+
 ```
 
 ---
